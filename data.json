@@ -1,0 +1,71 @@
+{
+
+"Options": [
+{
+"Premium":"1",
+"VIP":"1",
+"ShadowsocksR":"1"
+}
+],
+
+"Premium": [
+{"Name":"Premium 1","Ip":"188.166.210.154"},
+{"Name":"Premium 2","Ip":"140.82.56.101"},
+{"Name":"Premium 3","Ip":"139.59.114.241"},
+
+],
+
+"VIP":[
+{"Name":"VIP Singapore 1","Ip":"188.166.210.154"},
+{"Name":"VIP Singapore 2","Ip":"gtmp2.vuiphilippine.com"},
+{"Name":"VIP Singapore 3","Ip":"gtmp3.vuiphilippine.com"},
+{"Name":"VIP Singapore 4","Ip":"gtmp4.vuiphilippine.com"},
+{"Name":"VIP Singapore 5","Ip":"gtmp5.vuiphilippine.com"},
+{"Name":"VIP Singapore 6","Ip":"gtmp6.vuiphilippine.com"},
+{"Name":"VIP Singapore 7","Ip":"gtmp7.vuiphilippine.com"},
+{"Name":"VIP Singapore 8","Ip":"gtmp8.vuiphilippine.com"},
+{"Name":"VIP Singapore 9","Ip":"gtm9.vuiphilippine.com"},
+{"Name":"VIP Singapore 10","Ip":"gtmp10.vuiphilippine.com"},
+
+],
+
+"Shadowsocks":[
+{"Name":"SS India 1","Ip":"139.59.80.206"},
+],
+
+
+
+
+"Networks":[
+{
+"Name":"GTM NO LOAD 1",
+"Proxy":"0",
+"Port":"8181",
+"Payload":"790d204bab527d951a601688fd04a4a2857933243a951cf5ae800cd602b1071750c63fe8b31a0c92cfd5685450934d2373c96abe9ded76683ab177d0387dac6f0fe9df45618e5e7b864e717984",
+"Message":"0"
+},
+{
+"Name":"GTM NO LOAD 2",
+"Proxy":"0",
+"Port":"8282",
+"Payload":"790d204bab527d951a601688fd04a4a2857933243a951cf5ae800cd602b1071750c63fe8b31a0c92cfd5685450934d2373c96abe9ded76683ab177d0387dac6f0fe9df45618e5e7b864e717984",
+"Message":"0"
+},
+{
+"Name":"GTM NO LOAD 3",
+"Proxy":"0",
+"Port":"8080",
+"Payload":"6116274fa40b27d04a6e0994d110a1e0844b142c258408b6b69a54d82d86323417d972b685221d8cc5ee7d784c89196667ca74ff94b8394433b1299e167c9e7a18deda6a55c54c4e8955737af4dff8bdc7258c3e03b0fb8f1e941069361a5584f32370e1f54624f015174cf045606de70c39670215355693ebfc86154953361113026bfc5278afc64d8010e950f24ca6d79c87e45422e3d24f7a0cc84793c644f0e10a5d47647831d398427b506378fd5240c0f63d0369adfb2d795c22849db98d5fadc79a05058713a14d6f74f2da6949acd919a1815094fcb6619b5a4d338b50ad3ee9a5",
+"Message":"0"
+
+}
+
+],
+
+"Version": [
+{
+"Name":"1.3"
+}
+]
+
+}
