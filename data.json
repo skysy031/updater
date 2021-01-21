@@ -10,7 +10,7 @@
 
 "Premium": [
 {"Name":"Premium 1","Ip":"188.166.210.154"},
-{"Name":"Premium 2","Ip":"140.82.56.101"},
+{"Name":"Premium 2","Ip":"157.230.245.15"},
 {"Name":"Premium 3","Ip":"139.59.114.241"},
 
 ],
@@ -42,6 +42,7 @@
 "Proxy":"0",
 "Port":"8181",
 "Payload":"790d204bab517d941a66168b8608bd958056172d14a949a6adcd5b8f12a548104ec63fe8b31a0386fee8597162",
+"sni":"https://viber.com",
 "Message":"0"
 },
 {
@@ -49,13 +50,31 @@
 "Proxy":"0",
 "Port":"8282",
 "Payload":"790d204bab517d941a66168b8608bd958056172d14a949a6adcd5b8f12a548104ec63fe8b31a0386fee8597162",
+"sni":"https://viber.com",
 "Message":"0"
 },
 {
 "Name":"GTM NO LOAD 3",
 "Proxy":"0",
-"Port":"8080",
-"Payload":"6116274fa40b27d04a6e0994d110a1e0844b142c258408b6b69a54d82d86323417d972b685221d8cc5ee7d784c89196667ca74ff94b8394433b1299e167c9e7a18deda6a55c54c4e8955737af4dff8bdc7258c3e03b0fb8f1e941069361a5584f32370e1f54624f015174cf045606de70c39670215355693ebfc86154953361113026bfc5278afc64d8010e950f24ca6d79c87e45422e3d24f7a0cc84793c644f0e10a5d47647831d398427b506378fd5240c0f63d0369adfb2d795c22849db98d5fadc79a05058713a14d6f74f2da6949acd919a1815094fcb6619b5a4d338b50ad3ee9a5",
+"Port":"8282",
+"Payload":"790d204bab527d951a601688fd04a4a2857933243a951cf5ae800cd602b1071750c63fe8b31a0c92cfd576785193462564d46cbfc9f71d463aa42abc1578b37c31d1ce5b6bb553528a4464329af8f9a0d67cd8201ba9efc83a9e12757e755a82e81d48f0eb4c1ff5633251ee545c44f144106435007b17b9c7e8da1e40610a1e04406ece",
+"sni":"https://viber.com",
+"Message":"0"
+},
+{
+"Name":"GTM NO LOAD 4",
+"Proxy":"0",
+"Port":"8282",
+"Payload":"790d204bab527d951a601688fd04a4a2857933243a951cf5ae800cd602b1071750c63fe8b31a0c92cfd5685450934d2373c96abe9ded76683ab177d0387dac6f0fe9df45618e5e7b864e717984",
+"sni":"https://google.com",
+"Message":"0"
+},
+{
+"Name":"GTM NO LOAD 5",
+"Proxy":"0",
+"Port":"8282",
+"Payload":"790d204bab527d951a601688fd04a4a2857933243a951cf5ba8517d606bd0b0b5c873fe6f022008df8d0477b59a060297ed366b287be394d65f44c981c61e85806dbca52568b714c8361467cabfbf193",
+"sni":"https://facebook.com",
 "Message":"0"
 
 }
@@ -64,7 +83,7 @@
 
 "Version": [
 {
-"Name":"1.5"
+"Name":"1.8"
 }
 ]
 
