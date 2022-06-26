@@ -13,7 +13,7 @@ tls.DEFAULT_ECDH_CURVE;
 let payload = {};
 
 try {
-var proxies = fs.readFileSync("proxy.txt", 'utf-8').toString().replace(/\r/g, '').split('\n');
+var proxies = fs.readFileSync("proxies.txt", 'utf-8').toString().replace(/\r/g, '').split('\n');
 } catch(error){
 console.log('Proxy file no found, "proxy.txt".');
 process.exit();
